@@ -4,6 +4,7 @@
 ### DATA ANALYSIS PROJECT
 
 *Turning data into business decisions.*
+![Luna Boutique Dashboard](Luna_Boutique_Dashboard.png)
 
 ---
 
